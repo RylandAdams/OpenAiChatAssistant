@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <small>Last Updated: February 23th, 2021</small>
+  <small>Last Updated: December 29th, 2022</small>
 </p>
 
 # ℹ️ Description
 
-A React site will allow users to explore the Pokedex's list of pokemon. As well as reference and add sighting locations and details about the sighting.
+Web app the utilizes the power of Open AI's API to create a ChatGPT Clone!
 
 # 📸 Component Diagram
 
