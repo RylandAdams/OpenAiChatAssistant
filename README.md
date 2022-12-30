@@ -13,7 +13,7 @@
 
 # ℹ️ Description
 
-Web app the utilizes the power of Open AI's API to create a ChatGPT Clone!
+Web app that utilizes the power of Open AI's API to create a ChatGPT Clone!
 
 # 📸 Component Diagram
 
